@@ -1,0 +1,5 @@
+﻿  Source.c
+  func.c
+C:\Users\ASUS\Downloads\Telegram Desktop\func.c(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  lab_6.vcxproj -> D:\1 КУРС 2 СЕМЕСТР\ЛАБЫ\lab_6\x64\Debug\lab_6.exe

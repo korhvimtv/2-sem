@@ -1,0 +1,2 @@
+0 f f f 5 6
+0 anna kova g 6 7

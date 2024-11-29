@@ -1,0 +1,4 @@
+Matvei|Korhovoi|23A|4|7|7|7|7
+Egor|Shilko|24B|8|8|9|9|9
+Egor|Kluchenkov|21E|3|7|7|4|2
+Daniil|Gotovchic|34G|6|8|8|8|7
