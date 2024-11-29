@@ -1,0 +1,7 @@
+# ninja log v5
+0	119	7362827142897171	CMakeFiles/money_tracker.dir/main.cpp.obj	5ba17453567038e6
+4	126	7362827142967905	CMakeFiles/money_tracker.dir/functions.cpp.obj	68e678cc9f537a72
+126	284	7362827144502375	money_tracker.exe	70a2ae7fc5669074
+6	99	7362827167093838	CMakeFiles/money_tracker.dir/functions.cpp.obj	68e678cc9f537a72
+2	120	7362827167304882	CMakeFiles/money_tracker.dir/main.cpp.obj	5ba17453567038e6
+120	203	7362827168117186	money_tracker.exe	70a2ae7fc5669074

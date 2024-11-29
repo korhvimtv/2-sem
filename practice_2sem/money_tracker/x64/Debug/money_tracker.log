@@ -1,0 +1,12 @@
+﻿  functions.cpp
+D:\money_tracker\money_tracker\header.h(10,2): warning C4091: typedef : пропускается слева от "money", когда ни одна переменная не объявлена
+D:\money_tracker\money_tracker\functions.cpp(73,23): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+D:\money_tracker\money_tracker\functions.cpp(92,23): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+D:\money_tracker\money_tracker\functions.cpp(94,20): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\money_tracker\money_tracker\functions.cpp(397,104): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\money_tracker\money_tracker\functions.cpp(397,128): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\money_tracker\money_tracker\functions.cpp(402,104): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\money_tracker\money_tracker\functions.cpp(402,128): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\money_tracker\money_tracker\functions.cpp(407,104): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\money_tracker\money_tracker\functions.cpp(407,128): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  money_tracker.vcxproj -> D:\money_tracker\x64\Debug\money_tracker.exe
